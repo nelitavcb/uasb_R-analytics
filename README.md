@@ -31,7 +31,7 @@ Crear un archivo llamado Dataset.md que describirá que es lo que contiene tu da
 ##3. Análisis de datos
 Presentar tres hallazgos que pudiste encontrar en el dataset. Esto significa que mediante el análisis de datos (estadísticas, gráficas, análisis multidimensional, modelos predictivos) puedas encontrar información relevante para establecer tres afirmaciones.
 
-Cada hallazgo deberá acompañar de:
+El codigo R de cada hallazgo debera describir con comentarios "#" lo que se esta haciendo paso a paso:
 - Una descripcíon de lo que quieres encontrar. (Ejemplo: la relación entre los atributos 1, 2 y 3)
 - Un gráfico que muestre lo encontrado (exportar la imagen en formatos jpeg o png)
 - Una afirmación o conclusión a la que se ha llegado. 
